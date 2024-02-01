@@ -4,7 +4,7 @@ My name is Rodolfo Costa (a.k.a Akr0km).
 
 - 💻 A software engineer who loves designing system architectures.
 - ❤️ Love open source. Appreciate all the open source contributors.
-- 🎨 CEO at Elitsoft https://www.elitsoft-chile.com.
+- 🎨 CEO at Elitsoft https://www.elitsoft.cl.
 - 🛠️ Don't fall in love with the tech. Fall in love with problem solving.
 - 🏭 Love automating boring tasks and making tools for developers.
 
